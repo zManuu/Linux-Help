@@ -30,7 +30,6 @@
   <li>(Type in your password again)</li>
   <li>(Press arrow down to select the 'Ok' button)</li>
   <li>(Press enter to continue</li>
-  <li>sudo apt-get install gksu</li>
   <li>(Add "Include /etc/phpmyadmin/apache.conf" to the file "/etc/apache2/apache2.conf".)</li>
   <li>/etc/init.d/apache2 restart</li>
 </ul>
