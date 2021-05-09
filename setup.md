@@ -3,7 +3,7 @@
 <br>
 
 <ul>
-  <li>apt install sudo</li>
+  <li>apt-get install sudo</li>
   <li>sudo apt-get install screen</li>
   <li>sudo apt-get install htop</li>
   <li>sudo apt-get install curl</li>
