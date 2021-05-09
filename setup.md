@@ -32,10 +32,4 @@
   <li>(Press enter to continue</li>
   <li>(Add "Include /etc/phpmyadmin/apache.conf" to the file "/etc/apache2/apache2.conf".)</li>
   <li>/etc/init.d/apache2 restart</li>
-  <li>sudo apt-get install ufw</li>
-  <li>ufw allow SSH</li>
-  <li>ufw allow "WWW Full"</li>
-  <li>ufw allow FTP</li>
-  <li>ufw allow OpenSSH</li>
-  <li>ufw reload</li>
 </ul>
